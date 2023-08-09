@@ -1,0 +1,15 @@
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\bin\Debug\net7.0\Aula02DS.exe
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\bin\Debug\net7.0\Aula02DS.deps.json
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\bin\Debug\net7.0\Aula02DS.runtimeconfig.json
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\bin\Debug\net7.0\Aula02DS.dll
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\bin\Debug\net7.0\Aula02DS.pdb
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\obj\Debug\net7.0\Aula02DS.csproj.AssemblyReference.cache
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\obj\Debug\net7.0\Aula02DS.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\obj\Debug\net7.0\Aula02DS.AssemblyInfoInputs.cache
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\obj\Debug\net7.0\Aula02DS.AssemblyInfo.cs
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\obj\Debug\net7.0\Aula02DS.csproj.CoreCompileInputs.cache
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\obj\Debug\net7.0\Aula02DS.dll
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\obj\Debug\net7.0\refint\Aula02DS.dll
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\obj\Debug\net7.0\Aula02DS.pdb
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\obj\Debug\net7.0\Aula02DS.genruntimeconfig.cache
+D:\2DS_Vinicius.Coelho\C#\Aula02DS\obj\Debug\net7.0\ref\Aula02DS.dll
