@@ -1,0 +1,15 @@
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.exe
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.deps.json
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.runtimeconfig.json
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.dll
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\bin\Debug\net7.0\Aula03Colecoes.pdb
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.csproj.AssemblyReference.cache
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.AssemblyInfoInputs.cache
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.AssemblyInfo.cs
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.csproj.CoreCompileInputs.cache
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.dll
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\obj\Debug\net7.0\refint\Aula03Colecoes.dll
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.pdb
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\obj\Debug\net7.0\Aula03Colecoes.genruntimeconfig.cache
+D:\2DS_Vinicius.Coelho\C#\Aula03Colecoes\obj\Debug\net7.0\ref\Aula03Colecoes.dll
