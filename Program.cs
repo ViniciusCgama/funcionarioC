@@ -18,8 +18,8 @@ class Program
 
     enum TipoFuncionarioEnum
     {
-        Gerente = 1,
-        Normal = 2
+        CLT = 1,
+        Estagiario = 2
     }
 
     static void Main(string[] args)
